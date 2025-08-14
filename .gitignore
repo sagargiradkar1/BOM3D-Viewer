@@ -1,0 +1,258 @@
+# ===============================================
+# BOM3D Viewer - Input and Output Files
+# ===============================================
+
+# Input STEP files directory
+model/
+!model/.gitkeep
+!model/README.md
+
+# Output directories and generated files
+output/
+!output/.gitkeep
+!output/README.md
+
+# Specific file patterns for STEP files (in case they're elsewhere)
+*.step
+*.stp
+*.STEP
+*.STP
+
+# Generated BOM files
+*_bom.json
+bom_data.json
+*.bom
+
+# Generated web assets
+*.glb
+*.gltf
+*.bin
+
+# ===============================================
+# Python Development Files
+# ===============================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Conda environments
+*.conda
+.conda/
+
+# ===============================================
+# IDE and Editor Files
+# ===============================================
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# ===============================================
+# Operating System Files
+# ===============================================
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ===============================================
+# Jupyter Notebook
+# ===============================================
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# ===============================================
+# Logs and Temporary Files
+# ===============================================
+
+# Log files
+*.log
+logs/
+*.out
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+
+# ===============================================
+# CAD and 3D Files (Additional Formats)
+# ===============================================
+
+# Other CAD formats that might be generated
+*.iges
+*.igs
+*.brep
+*.x3d
+*.obj
+*.stl
+*.ply
+*.dae
+*.fbx
+*.3ds
+
+# ===============================================
+# Project Specific
+# ===============================================
+
+# Configuration files with sensitive data
+config.json
+settings.json
+.env.local
+.env.production
+
+# Large test files
+test_models/
+samples/
+examples/
+
+# Documentation build
+docs/_build/
+docs/.doctrees/
+
+# ===============================================
+# Optional: Keep Essential Structure
+# ===============================================
+
+# Uncomment these lines if you want to keep directory structure
+# but ignore contents
+
+# Keep essential directories but ignore their contents
+# !model/
+# model/*
+# !model/.gitkeep
+
+# !output/
+# output/*
+# !output/.gitkeep
+# !output/bom/
+# output/bom/*
+# !output/bom/.gitkeep
+# !output/web/
+# output/web/*
+# !output/web/.gitkeep
