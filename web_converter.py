@@ -3,8 +3,19 @@
 import os
 import sys
 import glob
-from typing import Dict, Any
-from model.extraction_data import WebAssetsData
+from typing import Dict, Any, Optional
+from dataclasses import dataclass
+
+
+@dataclass
+class WebAssetsData:
+    """Data structure for web assets"""
+    glb_file: Optional[str] = None
+    file_size: int = 0
+    format: str = ""
+    three_js_compatible: bool = False
+    conversion_unavailable: Optional[str] = None
+    conversion_error: Optional[str] = None
 
 
 class WebConverter:
