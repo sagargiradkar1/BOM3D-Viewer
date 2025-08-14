@@ -1,0 +1,2086 @@
+{
+  "filename": "75944_07.step",
+  "full_path": "C:\\Users\\sagarg_ithena\\Desktop\\BOM3D Viewer\\model\\75944_07.step",
+  "timestamp": "2025-08-14T12:29:46.613064",
+  "total_parts": 103,
+  "total_assemblies": 17,
+  "assembly_tree": [
+    {
+      "name": "75944-07",
+      "id": 1,
+      "parent_id": null,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "is_root": true,
+      "root_entry": "0:1:1:1"
+    },
+    {
+      "name": "NAUO1",
+      "id": 2,
+      "parent_id": 1,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "75944-07-1_75944-07-1",
+      "component_entry": "0:1:1:1:1",
+      "reference_entry": "0:1:1:2"
+    },
+    {
+      "name": "NAUO2",
+      "id": 3,
+      "parent_id": 2,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "2416-141_2416-141",
+      "component_entry": "0:1:1:2:1",
+      "reference_entry": "0:1:1:3"
+    },
+    {
+      "name": "NAUO18",
+      "id": 4,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 128,
+        "g": 128,
+        "b": 128,
+        "hex": "#808080"
+      },
+      "shape_type": "Compound",
+      "reference_name": "1307-360_1307-360",
+      "component_entry": "0:1:1:3:1",
+      "reference_entry": "0:1:1:4"
+    },
+    {
+      "name": "NAUO19",
+      "id": 5,
+      "parent_id": 3,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "2140-610_0400-01R",
+      "component_entry": "0:1:1:3:2",
+      "reference_entry": "0:1:1:5"
+    },
+    {
+      "name": "NAUO71",
+      "id": 6,
+      "parent_id": 5,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "3130-657_0400",
+      "component_entry": "0:1:1:5:1",
+      "reference_entry": "0:1:1:6"
+    },
+    {
+      "name": "NAUO88",
+      "id": 7,
+      "parent_id": 6,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-460",
+      "component_entry": "0:1:1:6:1",
+      "reference_entry": "0:1:1:7"
+    },
+    {
+      "name": "NAUO89",
+      "id": 8,
+      "parent_id": 6,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-457",
+      "component_entry": "0:1:1:6:2",
+      "reference_entry": "0:1:1:8"
+    },
+    {
+      "name": "NAUO90",
+      "id": 9,
+      "parent_id": 6,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 226,
+        "b": 205,
+        "hex": "#ffe2cd"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-222_0400",
+      "component_entry": "0:1:1:6:3",
+      "reference_entry": "0:1:1:9"
+    },
+    {
+      "name": "NAUO91",
+      "id": 10,
+      "parent_id": 6,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 226,
+        "b": 205,
+        "hex": "#ffe2cd"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-222_0400",
+      "component_entry": "0:1:1:6:4",
+      "reference_entry": "0:1:1:9"
+    },
+    {
+      "name": "NAUO92",
+      "id": 11,
+      "parent_id": 6,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3124-106",
+      "component_entry": "0:1:1:6:5",
+      "reference_entry": "0:1:1:10"
+    },
+    {
+      "name": "NAUO93",
+      "id": 12,
+      "parent_id": 6,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3124-106",
+      "component_entry": "0:1:1:6:6",
+      "reference_entry": "0:1:1:10"
+    },
+    {
+      "name": "NAUO72",
+      "id": 13,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 134,
+        "g": 134,
+        "b": 134,
+        "hex": "#868686"
+      },
+      "shape_type": "Solid",
+      "reference_name": "5008-014_0400",
+      "component_entry": "0:1:1:5:2",
+      "reference_entry": "0:1:1:11"
+    },
+    {
+      "name": "NAUO73",
+      "id": 14,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 76,
+        "hex": "#5f574c"
+      },
+      "shape_type": "Solid",
+      "reference_name": "1025-510",
+      "component_entry": "0:1:1:5:3",
+      "reference_entry": "0:1:1:12"
+    },
+    {
+      "name": "NAUO74",
+      "id": 15,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "5008-020_260",
+      "component_entry": "0:1:1:5:4",
+      "reference_entry": "0:1:1:13"
+    },
+    {
+      "name": "NAUO75",
+      "id": 16,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 76,
+        "hex": "#5f574c"
+      },
+      "shape_type": "Solid",
+      "reference_name": "1025-510",
+      "component_entry": "0:1:1:5:5",
+      "reference_entry": "0:1:1:12"
+    },
+    {
+      "name": "NAUO76",
+      "id": 17,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 0,
+        "g": 55,
+        "b": 134,
+        "hex": "#003786"
+      },
+      "shape_type": "Solid",
+      "reference_name": "100-439_BEARING_FLANGED_FB16_00100168",
+      "component_entry": "0:1:1:5:6",
+      "reference_entry": "0:1:1:14"
+    },
+    {
+      "name": "NAUO77",
+      "id": 18,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 0,
+        "g": 55,
+        "b": 134,
+        "hex": "#003786"
+      },
+      "shape_type": "Solid",
+      "reference_name": "100-439_BEARING_FLANGED_FB16_00100168",
+      "component_entry": "0:1:1:5:7",
+      "reference_entry": "0:1:1:14"
+    },
+    {
+      "name": "NAUO78",
+      "id": 19,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 0,
+        "g": 134,
+        "b": 134,
+        "hex": "#008686"
+      },
+      "shape_type": "Solid",
+      "reference_name": "120-963_SPROCKET__M25S1240Q6_00139705",
+      "component_entry": "0:1:1:5:8",
+      "reference_entry": "0:1:1:15"
+    },
+    {
+      "name": "NAUO79",
+      "id": 20,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 226,
+        "b": 205,
+        "hex": "#ffe2cd"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3126-091_0400-01-25",
+      "component_entry": "0:1:1:5:9",
+      "reference_entry": "0:1:1:16"
+    },
+    {
+      "name": "NAUO80",
+      "id": 21,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 0,
+        "g": 134,
+        "b": 134,
+        "hex": "#008686"
+      },
+      "shape_type": "Solid",
+      "reference_name": "120-963_SPROCKET__M25S1240Q6_00139705",
+      "component_entry": "0:1:1:5:10",
+      "reference_entry": "0:1:1:15"
+    },
+    {
+      "name": "NAUO81",
+      "id": 22,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 134,
+        "g": 134,
+        "b": 134,
+        "hex": "#868686"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3124-002",
+      "component_entry": "0:1:1:5:11",
+      "reference_entry": "0:1:1:17"
+    },
+    {
+      "name": "NAUO82",
+      "id": 23,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 85,
+        "g": 94,
+        "b": 105,
+        "hex": "#555e69"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3126-240",
+      "component_entry": "0:1:1:5:12",
+      "reference_entry": "0:1:1:18"
+    },
+    {
+      "name": "NAUO83",
+      "id": 24,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 0,
+        "g": 134,
+        "b": 134,
+        "hex": "#008686"
+      },
+      "shape_type": "Solid",
+      "reference_name": "120-963_SPROCKET__M25S1240Q6_00139705",
+      "component_entry": "0:1:1:5:13",
+      "reference_entry": "0:1:1:15"
+    },
+    {
+      "name": "NAUO84",
+      "id": 25,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-356",
+      "component_entry": "0:1:1:5:14",
+      "reference_entry": "0:1:1:19"
+    },
+    {
+      "name": "NAUO85",
+      "id": 26,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-356",
+      "component_entry": "0:1:1:5:15",
+      "reference_entry": "0:1:1:19"
+    },
+    {
+      "name": "NAUO86",
+      "id": 27,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-978",
+      "component_entry": "0:1:1:5:16",
+      "reference_entry": "0:1:1:20"
+    },
+    {
+      "name": "NAUO87",
+      "id": 28,
+      "parent_id": 5,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-978",
+      "component_entry": "0:1:1:5:17",
+      "reference_entry": "0:1:1:20"
+    },
+    {
+      "name": "NAUO20",
+      "id": 29,
+      "parent_id": 3,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "2141-421_1250",
+      "component_entry": "0:1:1:3:3",
+      "reference_entry": "0:1:1:21"
+    },
+    {
+      "name": "NAUO59",
+      "id": 30,
+      "parent_id": 29,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "3129-253_1250",
+      "component_entry": "0:1:1:21:1",
+      "reference_entry": "0:1:1:22"
+    },
+    {
+      "name": "NAUO64",
+      "id": 31,
+      "parent_id": 30,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-593_1250",
+      "component_entry": "0:1:1:22:1",
+      "reference_entry": "0:1:1:23"
+    },
+    {
+      "name": "NAUO65",
+      "id": 32,
+      "parent_id": 30,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-593_1250",
+      "component_entry": "0:1:1:22:2",
+      "reference_entry": "0:1:1:23"
+    },
+    {
+      "name": "NAUO66",
+      "id": 33,
+      "parent_id": 30,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 226,
+        "b": 205,
+        "hex": "#ffe2cd"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-222_0400",
+      "component_entry": "0:1:1:22:3",
+      "reference_entry": "0:1:1:9"
+    },
+    {
+      "name": "NAUO67",
+      "id": 34,
+      "parent_id": 30,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 226,
+        "b": 205,
+        "hex": "#ffe2cd"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-222_0400",
+      "component_entry": "0:1:1:22:4",
+      "reference_entry": "0:1:1:9"
+    },
+    {
+      "name": "NAUO68",
+      "id": 35,
+      "parent_id": 30,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 226,
+        "b": 205,
+        "hex": "#ffe2cd"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-222_0400",
+      "component_entry": "0:1:1:22:5",
+      "reference_entry": "0:1:1:9"
+    },
+    {
+      "name": "NAUO69",
+      "id": 36,
+      "parent_id": 30,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 226,
+        "b": 205,
+        "hex": "#ffe2cd"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-222_0400",
+      "component_entry": "0:1:1:22:6",
+      "reference_entry": "0:1:1:9"
+    },
+    {
+      "name": "NAUO70",
+      "id": 37,
+      "parent_id": 30,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 226,
+        "b": 205,
+        "hex": "#ffe2cd"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-222_0400",
+      "component_entry": "0:1:1:22:7",
+      "reference_entry": "0:1:1:9"
+    },
+    {
+      "name": "NAUO60",
+      "id": 38,
+      "parent_id": 29,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-978",
+      "component_entry": "0:1:1:21:2",
+      "reference_entry": "0:1:1:20"
+    },
+    {
+      "name": "NAUO61",
+      "id": 39,
+      "parent_id": 29,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-978",
+      "component_entry": "0:1:1:21:3",
+      "reference_entry": "0:1:1:20"
+    },
+    {
+      "name": "NAUO62",
+      "id": 40,
+      "parent_id": 29,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-349",
+      "component_entry": "0:1:1:21:4",
+      "reference_entry": "0:1:1:24"
+    },
+    {
+      "name": "NAUO63",
+      "id": 41,
+      "parent_id": 29,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-349",
+      "component_entry": "0:1:1:21:5",
+      "reference_entry": "0:1:1:24"
+    },
+    {
+      "name": "NAUO21",
+      "id": 42,
+      "parent_id": 3,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "2141-007_0400",
+      "component_entry": "0:1:1:3:4",
+      "reference_entry": "0:1:1:25"
+    },
+    {
+      "name": "NAUO44",
+      "id": 43,
+      "parent_id": 42,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "3125-229_0400",
+      "component_entry": "0:1:1:25:1",
+      "reference_entry": "0:1:1:26"
+    },
+    {
+      "name": "NAUO53",
+      "id": 44,
+      "parent_id": 43,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3124-100",
+      "component_entry": "0:1:1:26:1",
+      "reference_entry": "0:1:1:27"
+    },
+    {
+      "name": "NAUO54",
+      "id": 45,
+      "parent_id": 43,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3124-446",
+      "component_entry": "0:1:1:26:2",
+      "reference_entry": "0:1:1:28"
+    },
+    {
+      "name": "NAUO55",
+      "id": 46,
+      "parent_id": 43,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 226,
+        "b": 205,
+        "hex": "#ffe2cd"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-222_0400",
+      "component_entry": "0:1:1:26:3",
+      "reference_entry": "0:1:1:9"
+    },
+    {
+      "name": "NAUO56",
+      "id": 47,
+      "parent_id": 43,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 226,
+        "b": 205,
+        "hex": "#ffe2cd"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-222_0400",
+      "component_entry": "0:1:1:26:4",
+      "reference_entry": "0:1:1:9"
+    },
+    {
+      "name": "NAUO57",
+      "id": 48,
+      "parent_id": 43,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3124-106",
+      "component_entry": "0:1:1:26:5",
+      "reference_entry": "0:1:1:10"
+    },
+    {
+      "name": "NAUO58",
+      "id": 49,
+      "parent_id": 43,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3124-106",
+      "component_entry": "0:1:1:26:6",
+      "reference_entry": "0:1:1:10"
+    },
+    {
+      "name": "NAUO45",
+      "id": 50,
+      "parent_id": 42,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 134,
+        "g": 134,
+        "b": 134,
+        "hex": "#868686"
+      },
+      "shape_type": "Solid",
+      "reference_name": "5008-014_0400",
+      "component_entry": "0:1:1:25:2",
+      "reference_entry": "0:1:1:11"
+    },
+    {
+      "name": "NAUO46",
+      "id": 51,
+      "parent_id": 42,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 76,
+        "hex": "#5f574c"
+      },
+      "shape_type": "Solid",
+      "reference_name": "1025-510",
+      "component_entry": "0:1:1:25:3",
+      "reference_entry": "0:1:1:12"
+    },
+    {
+      "name": "NAUO47",
+      "id": 52,
+      "parent_id": 42,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "5008-020_260",
+      "component_entry": "0:1:1:25:4",
+      "reference_entry": "0:1:1:13"
+    },
+    {
+      "name": "NAUO48",
+      "id": 53,
+      "parent_id": 42,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 76,
+        "hex": "#5f574c"
+      },
+      "shape_type": "Solid",
+      "reference_name": "1025-510",
+      "component_entry": "0:1:1:25:5",
+      "reference_entry": "0:1:1:12"
+    },
+    {
+      "name": "NAUO49",
+      "id": 54,
+      "parent_id": 42,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 76,
+        "hex": "#5f574c"
+      },
+      "shape_type": "Solid",
+      "reference_name": "5008-026_0400",
+      "component_entry": "0:1:1:25:6",
+      "reference_entry": "0:1:1:29"
+    },
+    {
+      "name": "NAUO50",
+      "id": 55,
+      "parent_id": 42,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "399-480_BACKFLEX_ROLLER_200_00161397",
+      "component_entry": "0:1:1:25:7",
+      "reference_entry": "0:1:1:30"
+    },
+    {
+      "name": "NAUO51",
+      "id": 56,
+      "parent_id": 42,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "399-480_BACKFLEX_ROLLER_200_00161397",
+      "component_entry": "0:1:1:25:8",
+      "reference_entry": "0:1:1:30"
+    },
+    {
+      "name": "NAUO52",
+      "id": 57,
+      "parent_id": 42,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "399-480_BACKFLEX_ROLLER_200_00161397",
+      "component_entry": "0:1:1:25:9",
+      "reference_entry": "0:1:1:30"
+    },
+    {
+      "name": "NAUO22",
+      "id": 58,
+      "parent_id": 3,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "2140-199_0454-0275",
+      "component_entry": "0:1:1:3:5",
+      "reference_entry": "0:1:1:31"
+    },
+    {
+      "name": "NAUO36",
+      "id": 59,
+      "parent_id": 58,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "3123-922_0454-0275",
+      "component_entry": "0:1:1:31:1",
+      "reference_entry": "0:1:1:32"
+    },
+    {
+      "name": "NAUO37",
+      "id": 60,
+      "parent_id": 59,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 144,
+        "g": 135,
+        "b": 128,
+        "hex": "#908780"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-924_0275",
+      "component_entry": "0:1:1:32:1",
+      "reference_entry": "0:1:1:33"
+    },
+    {
+      "name": "NAUO38",
+      "id": 61,
+      "parent_id": 59,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 144,
+        "g": 135,
+        "b": 128,
+        "hex": "#908780"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-924_0275",
+      "component_entry": "0:1:1:32:2",
+      "reference_entry": "0:1:1:33"
+    },
+    {
+      "name": "NAUO39",
+      "id": 62,
+      "parent_id": 59,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-954",
+      "component_entry": "0:1:1:32:3",
+      "reference_entry": "0:1:1:34"
+    },
+    {
+      "name": "NAUO40",
+      "id": 63,
+      "parent_id": 59,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-954",
+      "component_entry": "0:1:1:32:4",
+      "reference_entry": "0:1:1:34"
+    },
+    {
+      "name": "NAUO41",
+      "id": 64,
+      "parent_id": 59,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3124-226",
+      "component_entry": "0:1:1:32:5",
+      "reference_entry": "0:1:1:35"
+    },
+    {
+      "name": "NAUO42",
+      "id": 65,
+      "parent_id": 59,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3124-228",
+      "component_entry": "0:1:1:32:6",
+      "reference_entry": "0:1:1:36"
+    },
+    {
+      "name": "NAUO43",
+      "id": 66,
+      "parent_id": 59,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 144,
+        "g": 135,
+        "b": 128,
+        "hex": "#908780"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-925_0454",
+      "component_entry": "0:1:1:32:7",
+      "reference_entry": "0:1:1:37"
+    },
+    {
+      "name": "NAUO23",
+      "id": 67,
+      "parent_id": 3,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "2140-199_0454-0275",
+      "component_entry": "0:1:1:3:6",
+      "reference_entry": "0:1:1:31"
+    },
+    {
+      "name": "NAUO36",
+      "id": 68,
+      "parent_id": 67,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "3123-922_0454-0275",
+      "component_entry": "0:1:1:31:1",
+      "reference_entry": "0:1:1:32"
+    },
+    {
+      "name": "NAUO37",
+      "id": 69,
+      "parent_id": 68,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 144,
+        "g": 135,
+        "b": 128,
+        "hex": "#908780"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-924_0275",
+      "component_entry": "0:1:1:32:1",
+      "reference_entry": "0:1:1:33"
+    },
+    {
+      "name": "NAUO38",
+      "id": 70,
+      "parent_id": 68,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 144,
+        "g": 135,
+        "b": 128,
+        "hex": "#908780"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-924_0275",
+      "component_entry": "0:1:1:32:2",
+      "reference_entry": "0:1:1:33"
+    },
+    {
+      "name": "NAUO39",
+      "id": 71,
+      "parent_id": 68,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-954",
+      "component_entry": "0:1:1:32:3",
+      "reference_entry": "0:1:1:34"
+    },
+    {
+      "name": "NAUO40",
+      "id": 72,
+      "parent_id": 68,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-954",
+      "component_entry": "0:1:1:32:4",
+      "reference_entry": "0:1:1:34"
+    },
+    {
+      "name": "NAUO41",
+      "id": 73,
+      "parent_id": 68,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3124-226",
+      "component_entry": "0:1:1:32:5",
+      "reference_entry": "0:1:1:35"
+    },
+    {
+      "name": "NAUO42",
+      "id": 74,
+      "parent_id": 68,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3124-228",
+      "component_entry": "0:1:1:32:6",
+      "reference_entry": "0:1:1:36"
+    },
+    {
+      "name": "NAUO43",
+      "id": 75,
+      "parent_id": 68,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 144,
+        "g": 135,
+        "b": 128,
+        "hex": "#908780"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-925_0454",
+      "component_entry": "0:1:1:32:7",
+      "reference_entry": "0:1:1:37"
+    },
+    {
+      "name": "NAUO24",
+      "id": 76,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3154-773",
+      "component_entry": "0:1:1:3:7",
+      "reference_entry": "0:1:1:38"
+    },
+    {
+      "name": "NAUO25",
+      "id": 77,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3154-780_3154-780-04",
+      "component_entry": "0:1:1:3:8",
+      "reference_entry": "0:1:1:39"
+    },
+    {
+      "name": "NAUO26",
+      "id": 78,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3154-773",
+      "component_entry": "0:1:1:3:9",
+      "reference_entry": "0:1:1:38"
+    },
+    {
+      "name": "NAUO27",
+      "id": 79,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3154-780_3154-780-04",
+      "component_entry": "0:1:1:3:10",
+      "reference_entry": "0:1:1:39"
+    },
+    {
+      "name": "NAUO28",
+      "id": 80,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3154-773",
+      "component_entry": "0:1:1:3:11",
+      "reference_entry": "0:1:1:38"
+    },
+    {
+      "name": "NAUO29",
+      "id": 81,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3154-773",
+      "component_entry": "0:1:1:3:12",
+      "reference_entry": "0:1:1:38"
+    },
+    {
+      "name": "NAUO30",
+      "id": 82,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-978",
+      "component_entry": "0:1:1:3:13",
+      "reference_entry": "0:1:1:20"
+    },
+    {
+      "name": "NAUO31",
+      "id": 83,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-349",
+      "component_entry": "0:1:1:3:14",
+      "reference_entry": "0:1:1:24"
+    },
+    {
+      "name": "NAUO32",
+      "id": 84,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3123-978",
+      "component_entry": "0:1:1:3:15",
+      "reference_entry": "0:1:1:20"
+    },
+    {
+      "name": "NAUO33",
+      "id": 85,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3125-349",
+      "component_entry": "0:1:1:3:16",
+      "reference_entry": "0:1:1:24"
+    },
+    {
+      "name": "NAUO34",
+      "id": 86,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3519-779_3519-779-01",
+      "component_entry": "0:1:1:3:17",
+      "reference_entry": "0:1:1:40"
+    },
+    {
+      "name": "NAUO35",
+      "id": 87,
+      "parent_id": 3,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3519-781_3519-781",
+      "component_entry": "0:1:1:3:18",
+      "reference_entry": "0:1:1:41"
+    },
+    {
+      "name": "NAUO3",
+      "id": 88,
+      "parent_id": 2,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "2416-374_2416-374 - REFERENCE SHOWN",
+      "component_entry": "0:1:1:2:2",
+      "reference_entry": "0:1:1:42"
+    },
+    {
+      "name": "NAUO4",
+      "id": 89,
+      "parent_id": 88,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "2411-404_2411-404-03 - OPP WIRING + RUSSELL VIEW",
+      "component_entry": "0:1:1:42:1",
+      "reference_entry": "0:1:1:43"
+    },
+    {
+      "name": "NAUO9",
+      "id": 90,
+      "parent_id": 89,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 17,
+        "g": 17,
+        "b": 17,
+        "hex": "#111111"
+      },
+      "shape_type": "Solid",
+      "reference_name": "1311-928_1311-928",
+      "component_entry": "0:1:1:43:1",
+      "reference_entry": "0:1:1:44"
+    },
+    {
+      "name": "NAUO10",
+      "id": 91,
+      "parent_id": 89,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 128,
+        "g": 128,
+        "b": 128,
+        "hex": "#808080"
+      },
+      "shape_type": "Compound",
+      "reference_name": "109-763_STATION_E4PBX_4_PUSH_00135787",
+      "component_entry": "0:1:1:43:2",
+      "reference_entry": "0:1:1:45"
+    },
+    {
+      "name": "NAUO11",
+      "id": 92,
+      "parent_id": 89,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3533-156_3533-156",
+      "component_entry": "0:1:1:43:3",
+      "reference_entry": "0:1:1:46"
+    },
+    {
+      "name": "NAUO12",
+      "id": 93,
+      "parent_id": 89,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3533-156_3533-156",
+      "component_entry": "0:1:1:43:4",
+      "reference_entry": "0:1:1:46"
+    },
+    {
+      "name": "NAUO13",
+      "id": 94,
+      "parent_id": 89,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3533-157_3533-157-01",
+      "component_entry": "0:1:1:43:5",
+      "reference_entry": "0:1:1:47"
+    },
+    {
+      "name": "NAUO14",
+      "id": 95,
+      "parent_id": 89,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:6",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO15",
+      "id": 96,
+      "parent_id": 89,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:7",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO16",
+      "id": 97,
+      "parent_id": 89,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:8",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO17",
+      "id": 98,
+      "parent_id": 89,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:9",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO5",
+      "id": 99,
+      "parent_id": 88,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "2411-404_2411-404-03 - OPP WIRING + RUSSELL VIEW",
+      "component_entry": "0:1:1:42:2",
+      "reference_entry": "0:1:1:43"
+    },
+    {
+      "name": "NAUO9",
+      "id": 100,
+      "parent_id": 99,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 17,
+        "g": 17,
+        "b": 17,
+        "hex": "#111111"
+      },
+      "shape_type": "Solid",
+      "reference_name": "1311-928_1311-928",
+      "component_entry": "0:1:1:43:1",
+      "reference_entry": "0:1:1:44"
+    },
+    {
+      "name": "NAUO10",
+      "id": 101,
+      "parent_id": 99,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 128,
+        "g": 128,
+        "b": 128,
+        "hex": "#808080"
+      },
+      "shape_type": "Compound",
+      "reference_name": "109-763_STATION_E4PBX_4_PUSH_00135787",
+      "component_entry": "0:1:1:43:2",
+      "reference_entry": "0:1:1:45"
+    },
+    {
+      "name": "NAUO11",
+      "id": 102,
+      "parent_id": 99,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3533-156_3533-156",
+      "component_entry": "0:1:1:43:3",
+      "reference_entry": "0:1:1:46"
+    },
+    {
+      "name": "NAUO12",
+      "id": 103,
+      "parent_id": 99,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3533-156_3533-156",
+      "component_entry": "0:1:1:43:4",
+      "reference_entry": "0:1:1:46"
+    },
+    {
+      "name": "NAUO13",
+      "id": 104,
+      "parent_id": 99,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3533-157_3533-157-01",
+      "component_entry": "0:1:1:43:5",
+      "reference_entry": "0:1:1:47"
+    },
+    {
+      "name": "NAUO14",
+      "id": 105,
+      "parent_id": 99,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:6",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO15",
+      "id": 106,
+      "parent_id": 99,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:7",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO16",
+      "id": 107,
+      "parent_id": 99,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:8",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO17",
+      "id": 108,
+      "parent_id": 99,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:9",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO6",
+      "id": 109,
+      "parent_id": 88,
+      "type": "assembly",
+      "is_assembly": true,
+      "location": null,
+      "color": null,
+      "shape_type": "Assembly",
+      "reference_name": "2411-404_2411-404-03 - OPP WIRING + RUSSELL VIEW",
+      "component_entry": "0:1:1:42:3",
+      "reference_entry": "0:1:1:43"
+    },
+    {
+      "name": "NAUO9",
+      "id": 110,
+      "parent_id": 109,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 17,
+        "g": 17,
+        "b": 17,
+        "hex": "#111111"
+      },
+      "shape_type": "Solid",
+      "reference_name": "1311-928_1311-928",
+      "component_entry": "0:1:1:43:1",
+      "reference_entry": "0:1:1:44"
+    },
+    {
+      "name": "NAUO10",
+      "id": 111,
+      "parent_id": 109,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 128,
+        "g": 128,
+        "b": 128,
+        "hex": "#808080"
+      },
+      "shape_type": "Compound",
+      "reference_name": "109-763_STATION_E4PBX_4_PUSH_00135787",
+      "component_entry": "0:1:1:43:2",
+      "reference_entry": "0:1:1:45"
+    },
+    {
+      "name": "NAUO11",
+      "id": 112,
+      "parent_id": 109,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3533-156_3533-156",
+      "component_entry": "0:1:1:43:3",
+      "reference_entry": "0:1:1:46"
+    },
+    {
+      "name": "NAUO12",
+      "id": 113,
+      "parent_id": 109,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3533-156_3533-156",
+      "component_entry": "0:1:1:43:4",
+      "reference_entry": "0:1:1:46"
+    },
+    {
+      "name": "NAUO13",
+      "id": 114,
+      "parent_id": 109,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 61,
+        "g": 66,
+        "b": 66,
+        "hex": "#3d4242"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3533-157_3533-157-01",
+      "component_entry": "0:1:1:43:5",
+      "reference_entry": "0:1:1:47"
+    },
+    {
+      "name": "NAUO14",
+      "id": 115,
+      "parent_id": 109,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:6",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO15",
+      "id": 116,
+      "parent_id": 109,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:7",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO16",
+      "id": 117,
+      "parent_id": 109,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:8",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO17",
+      "id": 118,
+      "parent_id": 109,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3535-844_3535-844",
+      "component_entry": "0:1:1:43:9",
+      "reference_entry": "0:1:1:48"
+    },
+    {
+      "name": "NAUO7",
+      "id": 119,
+      "parent_id": 88,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3543-776_3543-776",
+      "component_entry": "0:1:1:42:4",
+      "reference_entry": "0:1:1:49"
+    },
+    {
+      "name": "NAUO8",
+      "id": 120,
+      "parent_id": 88,
+      "type": "part",
+      "is_assembly": false,
+      "location": null,
+      "color": {
+        "r": 95,
+        "g": 87,
+        "b": 77,
+        "hex": "#5f574d"
+      },
+      "shape_type": "Solid",
+      "reference_name": "3543-782_3543-782",
+      "component_entry": "0:1:1:42:5",
+      "reference_entry": "0:1:1:50"
+    }
+  ],
+  "bom_type": "STEP_Assembly_BOM",
+  "generated_by": "STEP_to_JSON_Converter",
+  "version": "1.0"
+}
